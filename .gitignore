@@ -1,0 +1,21 @@
+# Environment and secrets
+.env
+
+# Database dump
+database.sql
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# VS Code settings (if using)
+.vscode/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
